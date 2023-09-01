@@ -22,7 +22,7 @@ Il s'agit d'une technique de chiffrement. Le point clé du challenge réside dan
 
 `t`, la clé du chiffrement est la partie entière du _time stampe_ au démarage du script
 
-[`random.seed(t)`](https://www.educative.io/answers/how-to-use-random-seed-method-in-python#:~:text=The%20random.,a%20random%20number%20in%20python.) permet d'initialiser les variables de sur lesuquelles se base la génération des nombre aléatoires. Celà signifie que nous auront les même nombre à chaque fois que nous initialisons ces variables sur la même valeur `t`. 
+[`random.seed(t)`](https://www.educative.io/answers/how-to-use-random-seed-method-in-python#:~:text=The%20random.,a%20random%20number%20in%20python.) permet d'initialiser les variables  sur lesuquelles se base la génération des nombre aléatoires. Celà signifie que nous auront les même nombre à chaque fois que nous initialisons ces variables sur la même valeur `t`. 
 
 Et le problème est réglé
 
